@@ -1,0 +1,5 @@
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo2-Lambda/obj/Debug/net7.0/Exemplo2-Lambda.csproj.AssemblyReference.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo2-Lambda/obj/Debug/net7.0/Exemplo2-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo2-Lambda/obj/Debug/net7.0/Exemplo2-Lambda.AssemblyInfoInputs.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo2-Lambda/obj/Debug/net7.0/Exemplo2-Lambda.AssemblyInfo.cs
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo2-Lambda/obj/Debug/net7.0/Exemplo2-Lambda.csproj.CoreCompileInputs.cache

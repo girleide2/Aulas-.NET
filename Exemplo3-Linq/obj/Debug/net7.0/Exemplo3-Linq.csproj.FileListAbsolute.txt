@@ -1,0 +1,15 @@
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/bin/Debug/net7.0/Exemplo3-Linq
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/bin/Debug/net7.0/Exemplo3-Linq.deps.json
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/bin/Debug/net7.0/Exemplo3-Linq.runtimeconfig.json
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/bin/Debug/net7.0/Exemplo3-Linq.dll
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/bin/Debug/net7.0/Exemplo3-Linq.pdb
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/Exemplo3-Linq.csproj.AssemblyReference.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/Exemplo3-Linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/Exemplo3-Linq.AssemblyInfoInputs.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/Exemplo3-Linq.AssemblyInfo.cs
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/Exemplo3-Linq.csproj.CoreCompileInputs.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/Exemplo3-Linq.dll
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/refint/Exemplo3-Linq.dll
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/Exemplo3-Linq.pdb
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/Exemplo3-Linq.genruntimeconfig.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo3-Linq/obj/Debug/net7.0/ref/Exemplo3-Linq.dll

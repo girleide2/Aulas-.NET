@@ -1,0 +1,15 @@
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/bin/Debug/net7.0/MultiplosArquivos
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/bin/Debug/net7.0/MultiplosArquivos.deps.json
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/bin/Debug/net7.0/MultiplosArquivos.runtimeconfig.json
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/bin/Debug/net7.0/MultiplosArquivos.dll
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/bin/Debug/net7.0/MultiplosArquivos.pdb
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/MultiplosArquivos.csproj.AssemblyReference.cache
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/MultiplosArquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/MultiplosArquivos.AssemblyInfoInputs.cache
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/MultiplosArquivos.AssemblyInfo.cs
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/MultiplosArquivos.csproj.CoreCompileInputs.cache
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/MultiplosArquivos.dll
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/refint/MultiplosArquivos.dll
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/MultiplosArquivos.pdb
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/MultiplosArquivos.genruntimeconfig.cache
+/home/girleide-macario-santos/Aulas-DotNet/MultiplosArquivos/obj/Debug/net7.0/ref/MultiplosArquivos.dll

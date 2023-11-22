@@ -1,0 +1,15 @@
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/bin/Debug/net7.0/Exemplo1-Tuplas
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/bin/Debug/net7.0/Exemplo1-Tuplas.deps.json
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/bin/Debug/net7.0/Exemplo1-Tuplas.runtimeconfig.json
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/bin/Debug/net7.0/Exemplo1-Tuplas.dll
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/bin/Debug/net7.0/Exemplo1-Tuplas.pdb
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/Exemplo1-Tuplas.csproj.AssemblyReference.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/Exemplo1-Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/Exemplo1-Tuplas.AssemblyInfoInputs.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/Exemplo1-Tuplas.AssemblyInfo.cs
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/Exemplo1-Tuplas.csproj.CoreCompileInputs.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/Exemplo1-Tuplas.dll
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/refint/Exemplo1-Tuplas.dll
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/Exemplo1-Tuplas.pdb
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/Exemplo1-Tuplas.genruntimeconfig.cache
+/home/girleide-macario-santos/Aulas-DotNet/Exemplo1-Tuplas/obj/Debug/net7.0/ref/Exemplo1-Tuplas.dll
